@@ -1,1 +1,0 @@
-Designed and developed a web-based application to keep users informed about corona virus spread ranging from the first case to the steps implemented by the government in South East Asia and Western Pacific regions.
